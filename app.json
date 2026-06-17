@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "teste-template",
-    "slug": "teste-template",
+    "name": "__APP_NAME__",
+    "slug": "__APP_SLUG__",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "testetemplate",
+    "scheme": "__APP_SLUG__",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"

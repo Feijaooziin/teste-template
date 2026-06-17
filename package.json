@@ -1,5 +1,5 @@
 {
-  "name": "teste-template",
+  "name": "__APP_SLUG__",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "dependencies": {
