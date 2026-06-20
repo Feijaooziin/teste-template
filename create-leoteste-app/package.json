@@ -1,0 +1,14 @@
+{
+  "name": "create-leotesteziin-app",
+  "version": "1.0.0",
+  "description": "CLI para criar apps Expo",
+  "bin": {
+    "create-leo-app": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "degit": "^3.4.7",
+    "fs-extra": "^11.3.5",
+    "prompts": "^2.4.2"
+  }
+}
